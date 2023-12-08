@@ -1,0 +1,57 @@
+body{
+    font-style: unset;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.block{
+    display: grid;
+    justify-content: center;
+}
+
+.block2{
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+.mini-block{
+    padding-left: 50px;
+}
+
+
+h1 {
+    color:rgb(183, 152, 113);
+    font-size: 50px;
+}
+h3{
+    color:rgb(183, 152, 113); 
+}
+
+.phone-number{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+a{
+    font-size: 25px; 
+    padding-left: 5px;
+    color: black;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.rectangle{
+    width: 160px; 
+    height: 10px; 
+    background-color: rgba(23, 21, 21, 0.881);
+    margin: 50px 0px 50px; 
+}
+
+p{
+    color: rgb(73, 72, 72);
+    font-family: Arial, sans-serif;
+}
